@@ -1,0 +1,28 @@
+body {
+    background-color: #ffe799;
+}
+
+h1.secthead {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cc813b;
+    color: #051c00;
+}
+
+a.links {
+    background-color: lightsalmon;
+}
+
+.lasagna {
+    font-size: larger;
+    color: darkgreen;
+}
+
+.pizza {
+
+    color: aliceblue;
+}
+
+#headerphoto {
+    width: 900px;
+    height: auto;
+}
